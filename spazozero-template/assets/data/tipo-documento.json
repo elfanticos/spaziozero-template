@@ -1,0 +1,23 @@
+[
+    {
+        "tipoDocumentoId": 2,
+        "tipoDocumentoDesc": "Foglio di Famiglia"
+    },
+    
+    {
+        "tipoDocumentoId": 3,
+        "tipoDocumentoDesc": "Stato Civile"
+    },
+    {
+        "tipoDocumentoId": 7,
+        "tipoDocumentoDesc": "Scheda Individuale"
+    },
+    {
+        "tipoDocumentoId": 8,
+        "tipoDocumentoDesc": "Cartellino di Identità"
+    },
+    {
+        "tipoDocumentoId": 10,
+        "tipoDocumentoDesc": "Schede Individuali Eliminate"
+    }
+]

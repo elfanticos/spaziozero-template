@@ -1,0 +1,23 @@
+[
+    {   
+        "utenteId": 1,
+        "username": "admin",
+        "nome": "admin",
+        "cognome": "admin",
+        "ruolo": "Amministratore"
+    },
+    {
+        "utenteId": 2,
+        "username": "Utente",
+        "nome": "Utente",
+        "cognome": "Utente",
+        "ruolo": "Utente"
+    },
+    {
+        "utenteId": 3,
+        "username": "utenteavanzato",
+        "nome": "utenteavanzato",
+        "cognome": "utenteavanzato",
+        "ruolo": "UtenteAvanzato"
+    }
+]
